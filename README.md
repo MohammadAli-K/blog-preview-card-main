@@ -45,5 +45,5 @@ I mainly want to focus on layout-related topics like Flexbox and Grid, but also 
 
 ## Author
 
-- Website - [Mohammed AKA Moka](https://chipper-cactus-66f2b0.netlify.app/)
+- Website - [Mohammed AKA Moka](https://blog-preview-card-main-mk.netlify.app/)
 - Frontend Mentor - [@MohammadAli-K](https://www.frontendmentor.io/profile/MohammadAli-K)
