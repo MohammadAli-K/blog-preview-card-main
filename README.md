@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](http://127.0.0.1:5500/)
-- Live Site URL: [Add live site URL here](https://blog-preview-card-main-mk.netlify.app/)
+- Solution URL: [http://127.0.0.1:5500/]
+- Live Site URL: [https://blog-preview-card-main-mk.netlify.app/]
 
 ## My process
 
